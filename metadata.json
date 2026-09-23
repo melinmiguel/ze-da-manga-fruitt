@@ -1,0 +1,6 @@
+{
+  "name": "Zé da Manga Fruitt",
+  "description": "E-commerce e Clube de Assinatura de mangas nobres e selecionadas direto do pomar. Saboreie variedades Palmer, Tommy, Keitt, Hadén e caixas artesanais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
